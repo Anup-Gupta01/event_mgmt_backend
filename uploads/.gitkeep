@@ -1,0 +1,3 @@
+# This folder stores locally uploaded files (e.g. images uploaded via multer).
+# In production, files are uploaded directly to Cloudinary instead.
+# This directory is intentionally kept in the repo with this placeholder.
